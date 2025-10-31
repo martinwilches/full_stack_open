@@ -15,5 +15,5 @@
 > [Part 4](https://github.com/martinwilches/full_stack_open/tree/main/part_4) <br>
 > Estructura de la aplicación backend, introducción a las pruebas
 
-> [Part 5](https://github.com/martinwilches/full_stack_open/tree/main/part_4) <br>
+> [Part 5](https://github.com/martinwilches/full_stack_open/tree/main/part_5) <br>
 > Probando aplicaciones React
